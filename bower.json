@@ -1,0 +1,28 @@
+{
+  "name": "blank-css-links",
+  "version": "0.1.0",
+  "description": "links styling for blank-css",
+  "main": "links.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-links",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "links"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
